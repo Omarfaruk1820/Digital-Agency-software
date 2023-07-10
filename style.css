@@ -256,4 +256,78 @@ font-weight:bold;
 .card, .boro-ma{
     text-align:center;
 }
+.footer-section{
+    width:100%;
+    height:100vh;
+    background-image: url(./image/footer-bg.png),
+    linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+    background-repeat:no-repeat;
+    background-size:cover;
+    margin:50px;
+    display:flex;
+    justify-content:space-around;
+    
+    
+}
+.Name{
+    width:100px;
+    height:100px;
+    color:white;
+}
+.omar-faruk{
+    font-size:20px;
+    width:200px;
+    height:100px;
+    color:white;
+    
+}
+.all-icon{
+    color:rgb(108, 100, 100);
+    
+    margin-top:15px;
+}
+.all-icon i{
+    padding:10px;
+    font-size:25px;
+    color:white;
+}
+.footer-section1{
+    margin-top:50px;
+}
+.footer-section2{
+    margin-top:100px;
+    color:white;
+}
+.footer-section3{
+    margin-top:100px;
+    color:white; 
+}
+.footer-section4{
+    margin-top:100px;
+    color:white; 
+}
+.manum{
+margin-top:20px;
+font-size:25px;
+}
+.romom{
+margin-top:5px;
+font-size:20px;
+}
+.hassan{
+margin-top:5px;
+font-size:20px;
+}
+.hassim{
+margin-top:5px;
+font-size:20px;
+}
+.copyright{
+    color:red;
+    text-align:center;
+}
+.reserved hr{
+color:red;
+
+}
 
