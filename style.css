@@ -195,14 +195,61 @@ padding-top:120px;
     background-color:white;
 }
 .blog-container{
+    
+    width:100%;
+    height:auto;
+    margin:50px;
+    
+}
+
+.blog-news{
+    margin-top:20px;
+   justify-content:center; 
+   font-size:50px;
+   align-items:center;
+   text-align:center;
+   
+   
+}
+
+.blog span{
+    color:red;
+}
+
+.blog-1{
+    width:250px;
+    height:250px;
+    align-items:center;
+    justify-content:center;
+}
+.cards{
     display:flex;
     width:100%;
+    height:300px;
+    margin:50px;
+    
+
+}
+.nisu{
+font-size:20px;
+text-align:center;
+font-weight: 700;
+
+}
+.boro-ma{
+width:200px;
+height:300px;
+font-size:12px;
+font-weight:bold;
+}
+.card{
+    width:100%;
+    margin-right:30px;
+}
+.card, .nisu{
     text-align:center;
 }
-.blog{
-  text-align:center;  
-}
-.blog-news{
-   text-align:center; 
+.card, .boro-ma{
+    text-align:center;
 }
 
